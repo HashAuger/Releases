@@ -6,7 +6,6 @@ This software helps users manage their Nvidia mining rigs by setting per algorit
 
 Hash Auger requires Windows 10 and will not run on older versions of Windows.
 
-See the complete version history and documentation at:  http://hashauger.wikidot.com/ and https://hashauger.com
-
 Hash Auger is maintained by an independent developer and is not associated with any mining pool or service. It does not collect a developer fee, sell advertising or collect personal information. Donations made to the address in the software's Setup tab are greatly appreciated as this software represents hundreds of hours of personal time and work.
 
+*** Note this project is no longer maintained and this repository has been archived.***
